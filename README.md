@@ -1,5 +1,6 @@
 # What If Simulator
 
+## 🧐
 `What If Simulator` is a standalone multi-agent project for simulating the likely consequences of everyday choices.
 
 It uses:
